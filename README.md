@@ -28,7 +28,7 @@ Un'utility leggerissima e "portable" scritta in PowerShell per cambiare rapidame
 
 \## 🚀 Download \& Utilizzo
 
-Scarica l'eseguibile dalla cartella principale o dalla sezione \[Releases](link-alle-tue-releases), fai doppio clic e scegli l'opzione desiderata.
+Scarica l'eseguibile dalla cartella principale o dalla sezione \[Releases](https://github.com/ilnanny75/Matebook-DNS/releases/tag/1.0), fai doppio clic e scegli l'opzione desiderata.
 
 
 
