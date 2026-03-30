@@ -1,5 +1,6 @@
+![Platform](https://img.shields.io/badge/platform-Windows%2011%20%7C%2010-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 \# 🌐 DNS-Matebook Portable (Windows 11)
-
 
 
 Un'utility leggerissima e "portable" scritta in PowerShell per cambiare rapidamente i server DNS su Windows 11. Ottimizzata per dispositivi Huawei Matebook, ma compatibile con qualsiasi PC Windows.
